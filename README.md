@@ -4,38 +4,38 @@
 
 ## 预览
 
-![Apr-11-2025 17-00-08](assets/Apr-11-2025 17-00-08.gif)
+![预览](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2017-00-08.gif?raw=true)
 
 ## 旅游攻略
 
+![旅游攻略](https://raw.githubusercontent.com/Bear-big-XX/cursorWeb/refs/heads/main/assets/Apr-11-2025%2019-30-31.gif)
 
-
-## ![Apr-11-2025 19-30-31](assets/Apr-11-2025 19-30-31.gif)整活
+# 整活
 
 ### 心形动画
 
-![Apr-11-2025 19-31-30](assets/Apr-11-2025 19-31-30.gif)
+![心形动画](https://raw.githubusercontent.com/Bear-big-XX/cursorWeb/refs/heads/main/assets/Apr-11-2025%2019-31-30.gif)
 
 ### 黑客帝国
 
-![Apr-11-2025 19-32-06](assets/Apr-11-2025 19-32-06.gif)
+![黑客帝国](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-32-06.gif?raw=true)
 
 ### 赛博朋克
 
-![Apr-11-2025 19-32-55](assets/Apr-11-2025 19-32-55.gif)
+![赛博朋克](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-32-55.gif?raw=true)
 
 ### 量子传送
 
-![Apr-11-2025 19-34-23](assets/Apr-11-2025 19-34-23.gif)
+![量子传送](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-34-23.gif?raw=true)
 
 ### 时间漩涡
 
-![Apr-11-2025 19-34-52](assets/Apr-11-2025 19-34-52.gif)
+![时间漩涡浅色](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-34-52.gif?raw=true)
 
-![Apr-11-2025 19-39-25](assets/Apr-11-2025 19-39-25.gif)
+![时间漩涡暗黑版](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-39-25.gif?raw=true)
 
 ### 混沌实验室
 
-![Apr-11-2025 19-35-36](assets/Apr-11-2025 19-35-36.gif)
+![混沌实验室浅色](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-35-36.gif?raw=true)
 
-![Apr-11-2025 19-39-54](assets/Apr-11-2025 19-39-54.gif)
+![混沌实验室暗黑版](https://github.com/Bear-big-XX/cursorWeb/blob/main/assets/Apr-11-2025%2019-39-54.gif?raw=true)
