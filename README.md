@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# cursorWeb
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+介绍：使用`cursor`+`deepseek`+`StableDiffusion` + `高德MCP`生成的基于`React`的个人博客网站
 
-## Available Scripts
+## 预览
 
-In the project directory, you can run:
+![Apr-11-2025 17-00-08](assets/Apr-11-2025 17-00-08.gif)
 
-### `npm start`
+## 旅游攻略
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## ![Apr-11-2025 19-30-31](assets/Apr-11-2025 19-30-31.gif)整活
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 心形动画
 
-### `npm run build`
+![Apr-11-2025 19-31-30](assets/Apr-11-2025 19-31-30.gif)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 黑客帝国
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Apr-11-2025 19-32-06](assets/Apr-11-2025 19-32-06.gif)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 赛博朋克
 
-### `npm run eject`
+![Apr-11-2025 19-32-55](assets/Apr-11-2025 19-32-55.gif)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 量子传送
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Apr-11-2025 19-34-23](assets/Apr-11-2025 19-34-23.gif)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 时间漩涡
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![Apr-11-2025 19-34-52](assets/Apr-11-2025 19-34-52.gif)
 
-## Learn More
+![Apr-11-2025 19-39-25](assets/Apr-11-2025 19-39-25.gif)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 混沌实验室
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Apr-11-2025 19-35-36](assets/Apr-11-2025 19-35-36.gif)
+
+![Apr-11-2025 19-39-54](assets/Apr-11-2025 19-39-54.gif)
